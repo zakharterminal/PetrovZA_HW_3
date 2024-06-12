@@ -1,2 +1,2 @@
 # loshik
-нуу хорошего дня всем читающим!
+HW first lesson with repo)
